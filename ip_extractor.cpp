@@ -1,4 +1,5 @@
 /*
+ * Author : Mehdi Rezaei Far
  * IP:Port Extractor v2.0  -  Windows Optimized
  * - Streaming I/O (low RAM, works on 2GB+ files)
  * - Hand-written fast parsers (no std::regex bottleneck)
